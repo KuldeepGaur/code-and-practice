@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Anagrams/Anagrams.iml" filepath="$PROJECT_DIR$/Anagrams/Anagrams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorldExample/HelloWorldExample.iml" filepath="$PROJECT_DIR$/HelloWorldExample/HelloWorldExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodePractices/src/JavaDesignPatterns/JavaDesignPatterns.iml" filepath="$PROJECT_DIR$/CodePractices/src/JavaDesignPatterns/JavaDesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodePractices/src/Servers/Servers.iml" filepath="$PROJECT_DIR$/CodePractices/src/Servers/Servers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadsInDepth/ThreadsInDepth.iml" filepath="$PROJECT_DIR$/ThreadsInDepth/ThreadsInDepth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testProject/testProject.iml" filepath="$PROJECT_DIR$/testProject/testProject.iml" />
+    </modules>
+  </component>
+</project>
