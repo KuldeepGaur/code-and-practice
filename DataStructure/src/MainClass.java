@@ -15,9 +15,10 @@ public class MainClass {
             singlyLinkedList=singlyLinkedList.getNextNode();
         }
 
+        System.out.println("hi there value is "+singlyLinkedList1.getNodeValue());
         while(singlyLinkedList1.getNextNode()!=null){
-            System.out.println("hi there value is "+singlyLinkedList1.getNodeValue());
             singlyLinkedList1=singlyLinkedList1.getNextNode();
+            System.out.println("hi there value is "+singlyLinkedList1.getNodeValue());
         }
     }
 }
