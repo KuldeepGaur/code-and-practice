@@ -15,7 +15,13 @@ public class TestWithMultipleThreadInSequentialManner {
         Thread t6 = new Thread(threadByRunnable);
         Thread t7 = new Thread(threadByRunnable);
 
-        t.start();t1.start();t2.start();t3.start();t4.start();t5.start();t6.start();t7.start();
+        //t.start();t1.start();t2.start();t3.start();t4.start();t5.start();t6.start();t7.start();
+        t.start();
+        try {
+            t1.join();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
 
         threadByRunnable.testThreadStartFromMethod();
 
